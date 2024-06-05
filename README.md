@@ -6,4 +6,6 @@ Meu nome é Yasmin Scapolli
 -Estou me desenvolvendo na língua JavaScripth
 -Utilizo esse espaço para minha organizaçaõ e compartilhamento dos meus projetos desenvolvidos
 
-### voce entrar em contato comigo :he
+### voce entrar em contato comigo 📫
+
+0000110612425xsp@aluno.educacao.sp.gov.br
