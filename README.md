@@ -2,7 +2,7 @@
 
 Meu nome é Yasmin Scapolli
 
--Estou estudando na Alura;
+-Estou estudando na [Alura](https:\\www.alura.com.br)
 -Estou me desenvolvendo na língua JavaScripth
 -Utilizo esse espaço para minha organizaçaõ e compartilhamento dos meus projetos desenvolvidos
 
@@ -11,5 +11,4 @@ Meu nome é Yasmin Scapolli
 0000110612425xsp@aluno.educacao.sp.gov.br
 
 
-![](![image](https://github.com/yasminscapolli/Yasminscapolli/assets/171689336/936217c3-1f8e-4184-873d-360327aaff75)
-)
+![](https://media1.tenor.com/m/evOjo3SiS1sAAAAd/cat-blink.gif)
